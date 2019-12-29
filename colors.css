@@ -1,0 +1,175 @@
+body {
+  background-color: rgb(187,0,0);
+   min-width:725px;        
+   width: auto !important; 
+   width:400px;           
+}
+.name {
+  display: block;
+  background-color: rgb(187, 0, 0);
+  color: black;
+  padding: 16px;
+  font-size: 250% ;
+  border: none;
+  cursor: pointer;
+  width:auto;
+  min-width: 220px;
+  font-family: verdana;
+  text-align: center;
+  border-radius: 5px;
+  float: left;
+  margin-left:20px;
+  margin-top: 0px;
+}
+
+.name:hover, .name:focus {
+  background-color: rgb(187,0,0);
+  font-size: 250%;
+  text-decoration: underline;
+} 
+
+.topstuff {
+  background-color: rgb(187, 0, 0);
+  color: black;
+  padding: 16px;
+  font-size: 200% ;
+  border: none;
+  cursor: pointer;
+  width: auto;
+  min-width: 80px;
+  font-family: arial;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 0px;
+  float: left;
+  margin-left:20px;
+  margin-top: 6px;
+}
+
+.topstuff:hover, .topstuff:focus {
+ background-color: rgb(187,0,0);
+  font-size: 200%;
+  text-decoration: underline;
+}
+
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 200%; 
+  
+}
+
+h2 {
+  color: black;
+  font-family: Arial;
+  font-size: 200%;
+  text-align: center
+}
+
+h3 {
+  color: black;
+  font-family: Arial;
+  font-size: 200%; 
+  margin-top: 0;
+}
+p {
+  color: black; 
+  font-family: arial;
+  font-size: 150%; 
+}
+
+.jobs {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  width: 350px;
+  height: 225px;
+  border: 1px solid black;
+  margin-top: 45px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  float: left;
+  border-radius: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding: 0px;
+  margin-bottom:25px;
+}
+
+.mid{
+  background: rgb(187,0,0);
+  text-align: center;
+  height: auto;
+}
+
+.midl {
+width:65%;
+margin-left:20px;
+}
+
+.midl p{
+  color: black; 
+  font-family: arial;
+  font-size: 150%;
+  float:left; 
+}
+
+.midr p{
+  color: black; 
+  font-family: arial;
+  font-size: 250%;
+  float:right;
+  margin-right:20px;
+}
+.bottom p {
+  color: black; 
+  font-family: arial;
+  font-size: 100%;
+  text-align: right;
+  margin-right: 15px;
+}
+.bottom{
+  
+  
+  background-color: rgb(220,220,220) ;
+  height: auto;
+  width:100%;
+  position: static;
+  bottom:0;
+  right:0;
+  float: right;
+  
+}
+
+.projects{
+  margin-top: 25px;
+  margin-bottom:25px;
+  background-color: white;
+  padding: 0px 15px 15px 15px;
+  border-radius: 5px;
+  border: 1px solid black
+}
+
+.projects h1{
+  color: black;
+  font-size:150%;
+  font-family: arial;
+}
+
+.projects p {
+  color: black;
+  font-size:100%;
+  font-family: arial;
+}
+
+.projects a {
+  color: black;
+  font-size:100%;
+  font-family: arial;
+}
+
